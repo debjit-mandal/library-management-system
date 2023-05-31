@@ -5,7 +5,7 @@ To run this code locally:
 
 `sudo git clone https://github.com/debjit-mandal/library-management-system`
 
-`cd library-management-system`
+`cd src/library-management-system`
 
 `javac LibraryManagementSystem.java`
 
